@@ -1,0 +1,3 @@
+[submodule "MixFlutterAndroid"]
+	path = MixFlutterAndroid
+	url = git@github.com:AlanGinger/MixFlutterAndroid.git
