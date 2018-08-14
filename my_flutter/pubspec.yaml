@@ -1,0 +1,19 @@
+name: my_flutter
+description: A new flutter module project.
+version: 1.0.0+1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  english_words: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  module:
+    androidPackage: com.example.myflutter
